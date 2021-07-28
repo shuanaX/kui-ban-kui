@@ -7,11 +7,9 @@
 1. volume 2. 23 ~ volume 3. 38
 2. volume 7. 88 ~ 90
 
-### wiki
+## 参考文献
 
-1. https://wiki.52poke.com/wiki/%E5%9D%82%E6%9C%A8%EF%BC%88%E7%89%B9%E5%88%AB%E7%AF%87%EF%BC%89——坂木（特别篇）
-2. https://wiki.52poke.com/wiki/%E9%AD%81%E5%A5%87%E6%80%9D——魁奇思
-3. https://wiki.52poke.com/wiki/%E5%9D%82%E6%9C%A8——坂木
+神奇宝贝百科，关于宝可梦的百科全书. https://wiki.52poke.com/wiki/%E4%B8%BB%E9%A1%B5
 
 ## 特别篇漫画与原作
 
